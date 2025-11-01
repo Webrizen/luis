@@ -1,9 +1,118 @@
 {
-  "monday": ["Maths - 10AM", "Programming - 12PM", "Lab - 2PM"],
-  "tuesday": ["English - 10AM", "Economics - 11AM", "Web Dev - 2PM"],
-  "wednesday": ["OFF"],
-  "thursday": ["Maths - 9AM", "C Programming - 11AM", "AI/ML - 3PM"],
-  "friday": ["Database - 10AM", "Lab - 12PM"],
-  "saturday": ["Sports - 9AM"],
-  "sunday": ["OFF"]
+  "monday": [
+    {
+      "subject": "Computer Fundamentals",
+      "time": "10:00 AM - 11:00 AM",
+      "room": "C-203",
+      "faculty": "Prof. Sharma"
+    },
+    {
+      "subject": "Mathematics I",
+      "time": "11:15 AM - 12:15 PM",
+      "room": "A-104",
+      "faculty": "Dr. S. Dutta"
+    },
+    {
+      "subject": "Programming in C (Lab)",
+      "time": "1:30 PM - 3:30 PM",
+      "room": "Lab-2",
+      "faculty": "Mr. Roy",
+      "note": "Lab session"
+    }
+  ],
+  "tuesday": [
+    {
+      "subject": "English Communication",
+      "time": "10:00 AM - 11:00 AM",
+      "room": "B-102",
+      "faculty": "Ms. N. Sen"
+    },
+    {
+      "subject": "Economics (Minor)",
+      "time": "11:15 AM - 12:15 PM",
+      "room": "E-105",
+      "faculty": "Dr. P. Banerjee"
+    },
+    {
+      "subject": "Python Programming",
+      "time": "1:00 PM - 2:30 PM",
+      "room": "C-201",
+      "faculty": "Prof. S. Chatterjee"
+    }
+  ],
+  "wednesday": [
+    {
+      "subject": "Digital Logic Design",
+      "time": "9:00 AM - 10:00 AM",
+      "room": "C-103",
+      "faculty": "Prof. A. Naskar"
+    },
+    {
+      "subject": "Mathematics I",
+      "time": "10:15 AM - 11:15 AM",
+      "room": "A-104",
+      "faculty": "Dr. S. Dutta"
+    },
+    {
+      "subject": "Workshop / Seminar",
+      "time": "1:00 PM - 3:00 PM",
+      "room": "Auditorium",
+      "faculty": "Guest Session",
+      "note": "Industry Talk or Practical Workshop"
+    }
+  ],
+  "thursday": [
+    {
+      "subject": "Database Management Systems",
+      "time": "10:00 AM - 11:00 AM",
+      "room": "C-101",
+      "faculty": "Prof. A. Ghosh"
+    },
+    {
+      "subject": "Python Programming (Lab)",
+      "time": "11:15 AM - 1:15 PM",
+      "room": "Lab-3",
+      "faculty": "Mr. Roy",
+      "note": "Lab session"
+    },
+    {
+      "subject": "Soft Skills",
+      "time": "2:00 PM - 3:00 PM",
+      "room": "B-202",
+      "faculty": "Ms. N. Sen"
+    }
+  ],
+  "friday": [
+    {
+      "subject": "AI & Machine Learning (Intro)",
+      "time": "9:00 AM - 10:30 AM",
+      "room": "C-204",
+      "faculty": "Prof. A. Mukherjee"
+    },
+    {
+      "subject": "Environmental Studies",
+      "time": "10:45 AM - 11:45 AM",
+      "room": "B-105",
+      "faculty": "Dr. R. Bhattacharya"
+    },
+    {
+      "subject": "Database Management Systems (Lab)",
+      "time": "1:00 PM - 3:00 PM",
+      "room": "Lab-1",
+      "faculty": "Prof. A. Ghosh",
+      "note": "Lab"
+    }
+  ],
+  "saturday": [
+    {
+      "subject": "Half-day",
+      "note": "Short revision classes or tests may be announced."
+    }
+  ],
+  "sunday": [
+    {
+      "subject": "OFF",
+      "note": "No classes. Enjoy your day, Sir."
+    }
+  ]
 }
