@@ -1,34 +1,9 @@
 {
-  "monday": [
-    "9:00–10:00  Programming in C",
-    "10:00–11:00  Digital Logic",
-    "11:15–12:15  Microeconomics (Minor)",
-    "1:15–3:15   C Programming Lab"
-  ],
-  "tuesday": [
-    "9:00–10:00  Mathematics I",
-    "10:00–11:00  Web Technology",
-    "11:15–12:15  Communication Skills",
-    "1:15–2:15   Library / Tutorial"
-  ],
-  "wednesday": [
-    "9:00–10:00  Web Technology Lab",
-    "10:00–11:00  Programming in C",
-    "11:15–12:15  Environmental Science",
-    "1:15–2:15   Digital Logic"
-  ],
-  "thursday": [
-    "9:00–10:00  Mathematics I",
-    "10:00–11:00  Web Technology",
-    "11:15–12:15  Communication Skills",
-    "1:15–3:15   Web Technology Lab"
-  ],
-  "friday": [
-    "9:00–10:00  Programming in C",
-    "10:00–11:00  Digital Logic",
-    "11:15–12:15  Microeconomics (Minor)",
-    "1:15–2:15   Seminar / Extra Class"
-  ],
-  "saturday": ["OFF (Weekend)"],
-  "sunday": ["OFF (Weekend)"]
+  "monday": ["Maths - 10AM", "Programming - 12PM", "Lab - 2PM"],
+  "tuesday": ["English - 10AM", "Economics - 11AM", "Web Dev - 2PM"],
+  "wednesday": ["OFF"],
+  "thursday": ["Maths - 9AM", "C Programming - 11AM", "AI/ML - 3PM"],
+  "friday": ["Database - 10AM", "Lab - 12PM"],
+  "saturday": ["Sports - 9AM"],
+  "sunday": ["OFF"]
 }
