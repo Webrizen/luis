@@ -1,0 +1,34 @@
+{
+  "monday": [
+    "9:00–10:00  Programming in C",
+    "10:00–11:00  Digital Logic",
+    "11:15–12:15  Microeconomics (Minor)",
+    "1:15–3:15   C Programming Lab"
+  ],
+  "tuesday": [
+    "9:00–10:00  Mathematics I",
+    "10:00–11:00  Web Technology",
+    "11:15–12:15  Communication Skills",
+    "1:15–2:15   Library / Tutorial"
+  ],
+  "wednesday": [
+    "9:00–10:00  Web Technology Lab",
+    "10:00–11:00  Programming in C",
+    "11:15–12:15  Environmental Science",
+    "1:15–2:15   Digital Logic"
+  ],
+  "thursday": [
+    "9:00–10:00  Mathematics I",
+    "10:00–11:00  Web Technology",
+    "11:15–12:15  Communication Skills",
+    "1:15–3:15   Web Technology Lab"
+  ],
+  "friday": [
+    "9:00–10:00  Programming in C",
+    "10:00–11:00  Digital Logic",
+    "11:15–12:15  Microeconomics (Minor)",
+    "1:15–2:15   Seminar / Extra Class"
+  ],
+  "saturday": ["OFF (Weekend)"],
+  "sunday": ["OFF (Weekend)"]
+}

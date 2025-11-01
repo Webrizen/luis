@@ -1,0 +1,19 @@
+{
+  "name": "luis",
+  "version": "1.0.0",
+  "description": "LUIS (Local University Information System) is a lightweight AI chatbot built with Node.js, TailwindCSS, and Gemini Pro.",
+  "license": "ISC",
+  "author": "Arsh",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dayjs": "^1.11.19",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
