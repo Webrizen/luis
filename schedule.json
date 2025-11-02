@@ -1,118 +1,126 @@
 {
-  "monday": [
+  "Monday": [
     {
-      "subject": "Computer Fundamentals",
-      "time": "10:00 AM - 11:00 AM",
-      "room": "C-203",
-      "faculty": "Prof. Sharma"
+      "time": "12:00 PM - 1:00 PM",
+      "subject": "BCA Core Class",
+      "code": "1BCA-23",
+      "faculty": "DKS",
+      "room": "Building 23"
     },
     {
-      "subject": "Mathematics I",
-      "time": "11:15 AM - 12:15 PM",
-      "room": "A-104",
-      "faculty": "Dr. S. Dutta"
-    },
-    {
-      "subject": "Programming in C (Lab)",
-      "time": "1:30 PM - 3:30 PM",
-      "room": "Lab-2",
-      "faculty": "Mr. Roy",
-      "note": "Lab session"
+      "time": "1:00 PM - 2:00 PM",
+      "subject": "MDC/SMJ Minor",
+      "code": "1(MDC/SMJ)MIN-25",
+      "faculty": "PC"
     }
   ],
-  "tuesday": [
+  "Tuesday": [
     {
-      "subject": "English Communication",
       "time": "10:00 AM - 11:00 AM",
-      "room": "B-102",
-      "faculty": "Ms. N. Sen"
+      "subject": "BCA Core Class",
+      "code": "1BCA-23",
+      "faculty": "SK"
     },
     {
-      "subject": "Economics (Minor)",
-      "time": "11:15 AM - 12:15 PM",
-      "room": "E-105",
-      "faculty": "Dr. P. Banerjee"
+      "time": "12:00 PM - 1:00 PM",
+      "subject": "BCA Core Class",
+      "code": "1BCA-23",
+      "faculty": "DKS"
     },
     {
-      "subject": "Python Programming",
-      "time": "1:00 PM - 2:30 PM",
-      "room": "C-201",
-      "faculty": "Prof. S. Chatterjee"
+      "time": "1:00 PM - 2:00 PM",
+      "subject": "Computer Science (CS)",
+      "code": "1CS-22",
+      "faculty": "SK"
+    },
+    {
+      "time": "4:00 PM - 5:00 PM",
+      "subject": "Minor Subject",
+      "code": "1(MDC/SMJ)MIN-25"
     }
   ],
-  "wednesday": [
+  "Wednesday": [
     {
-      "subject": "Digital Logic Design",
-      "time": "9:00 AM - 10:00 AM",
-      "room": "C-103",
-      "faculty": "Prof. A. Naskar"
-    },
-    {
-      "subject": "Mathematics I",
-      "time": "10:15 AM - 11:15 AM",
-      "room": "A-104",
-      "faculty": "Dr. S. Dutta"
-    },
-    {
-      "subject": "Workshop / Seminar",
-      "time": "1:00 PM - 3:00 PM",
-      "room": "Auditorium",
-      "faculty": "Guest Session",
-      "note": "Industry Talk or Practical Workshop"
-    }
-  ],
-  "thursday": [
-    {
-      "subject": "Database Management Systems",
       "time": "10:00 AM - 11:00 AM",
-      "room": "C-101",
-      "faculty": "Prof. A. Ghosh"
+      "subject": "Python (Section)",
+      "code": "1SEC-PYTHON-VC",
+      "faculty": "VC"
     },
     {
-      "subject": "Python Programming (Lab)",
-      "time": "11:15 AM - 1:15 PM",
-      "room": "Lab-3",
-      "faculty": "Mr. Roy",
-      "note": "Lab session"
+      "time": "11:00 AM - 12:00 PM",
+      "subject": "PPT Presentation (Section)",
+      "code": "1SEC-PPT-AS",
+      "faculty": "AS"
     },
     {
-      "subject": "Soft Skills",
+      "time": "12:00 PM - 1:00 PM",
+      "subject": "BCA Core Class",
+      "code": "1BCA-23",
+      "faculty": "DKS"
+    },
+    {
       "time": "2:00 PM - 3:00 PM",
-      "room": "B-202",
-      "faculty": "Ms. N. Sen"
+      "subject": "MDC/SMJ Minor (PC/SUK)",
+      "code": "1(MDC/SMJ)MIN-PC",
+      "faculty": "PC/SUK"
     }
   ],
-  "friday": [
+  "Thursday": [
     {
-      "subject": "AI & Machine Learning (Intro)",
-      "time": "9:00 AM - 10:30 AM",
-      "room": "C-204",
-      "faculty": "Prof. A. Mukherjee"
+      "time": "10:00 AM - 11:00 AM",
+      "subject": "Minor Subject",
+      "code": "1MINOR"
     },
     {
-      "subject": "Environmental Studies",
-      "time": "10:45 AM - 11:45 AM",
-      "room": "B-105",
-      "faculty": "Dr. R. Bhattacharya"
+      "time": "1:00 PM - 2:00 PM",
+      "subject": "BCA Core Class",
+      "code": "1BCA-23",
+      "faculty": "PKJ"
+    }
+  ],
+  "Friday": [
+    {
+      "time": "10:00 AM - 11:00 AM",
+      "subject": "BCA Core Class",
+      "code": "1BCA-23",
+      "faculty": "SK"
     },
     {
-      "subject": "Database Management Systems (Lab)",
-      "time": "1:00 PM - 3:00 PM",
-      "room": "Lab-1",
-      "faculty": "Prof. A. Ghosh",
-      "note": "Lab"
+      "time": "12:00 PM - 1:00 PM",
+      "subject": "BCA Core Class",
+      "code": "1BCA-23",
+      "faculty": "PKJ"
+    },
+    {
+      "time": "1:00 PM - 2:00 PM",
+      "subject": "Computer Science (CS)",
+      "code": "1CS-22",
+      "faculty": "PC"
+    },
+    {
+      "time": "2:00 PM - 3:00 PM",
+      "subject": "MDC/SMJ Minor",
+      "code": "1(MDC/SMJ)MIN-25"
     }
   ],
-  "saturday": [
+  "Saturday": [
     {
-      "subject": "Half-day",
-      "note": "Short revision classes or tests may be announced."
-    }
-  ],
-  "sunday": [
+      "time": "12:00 PM - 1:00 PM",
+      "subject": "Python Section",
+      "code": "1SEC-PYTHON-VC",
+      "faculty": "VC"
+    },
     {
-      "subject": "OFF",
-      "note": "No classes. Enjoy your day, Sir."
+      "time": "1:00 PM - 2:00 PM",
+      "subject": "PPT Presentation",
+      "code": "1SEC-PPT-AS",
+      "faculty": "AS"
+    },
+    {
+      "time": "2:00 PM - 3:00 PM",
+      "subject": "PPT Lab (Continuation)",
+      "code": "1SEC-PPT-AS",
+      "faculty": "AS"
     }
   ]
 }
